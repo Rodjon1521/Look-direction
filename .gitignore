@@ -1,0 +1,12 @@
+"# Look-direction" 
+.idea/
+__pycache__/
+build/
+crop_eyes.jpg
+crop_eyes_blur.jpg
+detected_eyes.jpg
+dist/
+pupil.jpg
+test.py
+test.spec
+venv/
